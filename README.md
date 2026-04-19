@@ -4,7 +4,7 @@ A responsive single-page frontend mockup for a fictional premium sneaker marketp
 
 ## Overview
 
-Sneaker Store is a dark-mode e-commerce UI concept with a gaming-inspired aesthetic. It includes shopper and seller flows, a responsive layout for mobile to desktop, and a clean component-driven architecture using React Context for app state.
+Sneaker Store is a dark-mode e-commerce UI concept. It includes shopper and seller flows, a responsive layout for mobile to desktop, and a clean component-driven architecture using React Context for app state.
 
 ## Features
 
